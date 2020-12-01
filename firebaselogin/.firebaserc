@@ -1,0 +1,18 @@
+{
+  "targets": {
+    "test-app-6c1be": {
+      "hosting": {
+        "firebaselogin": [
+          "test-app-6c1be"
+        ]
+      }
+    },
+    "travel-app-ba3a2": {
+      "hosting": {
+        "firebaselogin": [
+          "travel-app-ba3a2"
+        ]
+      }
+    }
+  }
+}
